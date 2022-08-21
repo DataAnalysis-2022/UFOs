@@ -42,7 +42,7 @@ function updateFilters() {
     // 5. If a filter value was entered then add that filterId and value
     // to the filters list. Otherwise, clear that filter from the filters object.
     if(inputText != undefined){
-      filters.push({filterId, filterValue});
+      filters[filterId] = filterValue;
     }
     else {
       filters ={};
