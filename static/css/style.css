@@ -9,7 +9,11 @@ body {
     text-align: center;
   }
 
-ul.ba {
+ul {
     list-style-type: none;
 }
 
+li{
+  text-align: -webkit-match-parent;
+  width: 100%;
+}
