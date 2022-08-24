@@ -14,7 +14,7 @@ The project is to show the visitors of the website the information of UFO sighti
 
 
 
-![image-20220822203906674](C:\Users\Yunkai Zhang\AppData\Roaming\Typora\typora-user-images\image-20220822203906674.png)
+![image-20220822203906674](Resources/image-20220822203906674.png)
 
 
 
@@ -22,7 +22,7 @@ The project is to show the visitors of the website the information of UFO sighti
 
 
 
-![image-20220822204103905](C:\Users\Yunkai Zhang\AppData\Roaming\Typora\typora-user-images\image-20220822204103905.png)
+![image-20220822204103905](Resources/image-20220822204103905.png)
 
 
 
